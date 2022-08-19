@@ -5,5 +5,4 @@
 - 🌱 Eu estou atualmente estudando JavaScript, CSS, HTML, QA e Power BI.
 - 💬 Também sou estudante de Inglês.
 - 🤩 Sou formada em Análise e Desenvolvimento de Sistemas.
-
-Link do meu LinkedIn: https://www.linkedin.com/in/tamiris-lima/
+- 🐱‍👤 Est é o link do meu LinkedIn: https://www.linkedin.com/in/tamiris-lima/
