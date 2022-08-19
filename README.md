@@ -1,4 +1,4 @@
-Olá! Eu sou a Tamiris Lima!
+❤ Olá! Eu sou a Tamiris Lima!
 
 
 - 🔭 Eu trabalho como Analista de Conteúdo na Thomson Reuters.
