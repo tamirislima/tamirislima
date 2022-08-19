@@ -6,4 +6,4 @@
 - 💬 Também sou estudante de Inglês.
 - 🤩 Sou formada em Análise e Desenvolvimento de Sistemas.
 
-
+Link do meu LinkedIn: https://www.linkedin.com/in/tamiris-lima/
